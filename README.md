@@ -1,2 +1,2 @@
 # zakafahmi.github.io
-halam web untuk dokumentasi projek 
+halam web untuk index dokumentasi projek ,portofolio ,dll
